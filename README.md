@@ -21,20 +21,16 @@ To achieve our objective, we will follow the following steps:
 Understanding the dataset
 
 The data was obtained from kaggle: https://www.kaggle.com/competitions/fake-news/data
-The train and test datasets were provided.
-            train.csv: A full training dataset with the following attributes:
+there are a total of 20,800 observations with 5 attributes.
 
-                      id: unique id for a news article
-                      title: the title of a news article
-                      author: author of the news article
-                      text: the text of the article; could be incomplete
-                      label: a label that marks the article as potentially unreliable
-                            1: unreliable
-                            0: reliable
-            test.csv: A testing training dataset with all the same attributes at train.csv without the label.
-
-            submit.csv: A sample submission that you can
-	    
+   1. id: unique id for a news article
+   2. title: the title of a news article
+   3. author: author of the news article
+   4. text: the text of the article; could be incomplete
+   5. label: a label that marks the article as potentially unreliable
+               1: unreliable
+               0: reliable
+			    
 	    
 Expected outcomes
 
