@@ -44,3 +44,7 @@ The expected outcome of this project is a machine learning system that is able t
 Significance
 
 This project has the potential to make a significant impact by providing a reliable and efficient method for detecting fake news in online media. The results of this study could be used to develop tools and systems for detecting and combating fake news, helping to protect the public from being misled and supporting the integrity of online media.
+
+Conclusion
+
+Fake news is a serious issue that has the potential to cause significant damage to individuals and organizations. Machine learning techniques offer a promising solution to this problem, and the development of a fake news detection system using these techniques has the potential to make a significant impact.
